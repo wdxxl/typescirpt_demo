@@ -1,0 +1,18 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["es6","dom"],
+    "module": "commonjs",
+    "strict": true
+  },
+  "files":[
+    "02_function/type.ts",
+    "01_Demo/hello.ts",
+    "Handbook/greeter.ts",
+    "Handbook/person.ts",
+    "Handbook/Student.ts",
+    "Handbook_basic/01_let_var_const.ts",
+    "10_Promise/Promise.ts"
+  ]
+}
