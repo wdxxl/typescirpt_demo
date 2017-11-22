@@ -7,8 +7,11 @@
     "strict": true
   },
   "files":[
-    "02_function/type.ts",
     "01_Demo/hello.ts",
+    "02_function/type.ts",
+    "03_interface/interface.ts",
+    "04_lambda/lambda.ts",
+    "05_class/class.ts",
     "Handbook/greeter.ts",
     "Handbook/person.ts",
     "Handbook/Student.ts",

@@ -11,8 +11,8 @@ tsconfig.json 生成 Terminal：tsc --init
 Terminal：tsc 会根据配置直接生成js文件
 
 cmd+shift+p 输入 typescript
-
 Build 快捷键 F6
+
 Format 快捷键 cmd+option+l
 
 ```
